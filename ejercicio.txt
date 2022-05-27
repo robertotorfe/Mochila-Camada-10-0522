@@ -1,0 +1,12 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto. Los desarrolladores que han trabajado con Git cuentan con una buena representación en la base de talentos disponibles para el desarrollo de software, y este sistema funciona a la perfección en una amplia variedad de sistemas operativos e IDE (entornos de desarrollo integrados).
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+ El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+Un objetivo que considera que GitHub va a ser «el destino para que los desarrolladores aprendan, compartan y trabajen juntos para crear software», algo que según explica es importante también para Microsoft
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades. En este libro vamos a utilizar Git desde la línea de comandos. La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git - la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad. Si tú sabes cómo realizar algo desde la línea de comandos, seguramente serás capaz de averiguar cómo hacer lo mismo desde una interfaz gráfica. Sin embargo, la relación opuesta no es necesariamente cierta. Así mismo, la decisión de qué cliente gráfico utilizar depende totalmente de tu gusto, pero todos los usuarios tendrán las herramientas de línea de comandos instaladas y disponibles.
