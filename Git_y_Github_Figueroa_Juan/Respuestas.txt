@@ -1,0 +1,29 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+    Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+¿A quién pertenece actualmente Github y por qué?
+    El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC.
+    El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+    La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+    Github cuenta con su propia CLI denominada GH
+    Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades.
+
+
+
+
+
+    Fuentes: 
+    https://es.wikipedia.org/wiki/GitHub#:~:text=El%204%20de%20junio%20de,de%207500%20millones%20de%20d%C3%B3lares.
+
+    https://hipertextual.com/2018/06/microsoft-compra-github-2
+
+    https://www.atlassian.com/es/git/tutorials/what-is-git#:~:text=Git%20es%20un%20proyecto%20de,sistema%20operativo%20Linux%2C%20en%202005.
+
+    https://microsofters.com/167283/github-anuncia-su-propia-cli-denominada-gh-para-ser-mas-productivos/#:~:text=GitHub%20anuncia%20su%20propia%20CLI%20denominada%20GH%20para%20ser%20m%C3%A1s%20productivos,-14%2F02%2F2020&text=Los%20desarrolladores%20de%20GitHub%20que,en%20proyectos%20de%20c%C3%B3digo%20abierto.
+
+    https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-La-L%C3%ADnea-de-Comandos
+
+
+
+
+
