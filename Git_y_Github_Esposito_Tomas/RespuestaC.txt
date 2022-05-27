@@ -1,0 +1,2 @@
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si actualmente existen muchas formas de omitir la terminal de Git. Por ejemplo a traves de VScode, etc.

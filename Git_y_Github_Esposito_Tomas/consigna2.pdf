@@ -1,0 +1,15 @@
+git --version//para ver la version de git
+git init//para crear un repositorio local
+git config --gobal user.name "nombreDeUsuario"//agrega nuestro nombre de manera permanente en la pc 
+git config --gobal user.email "nombre@email.com"//agrega nuestro email de manera permanente a la pc 
+git remote add origin "url"//Conectar repositorio local con repositorio remoto
+git add .//agregar todos los archivos
+git commit -m "nombre"//comitea los cambios hechos
+git push origin master//envia los cambios al repositorio remoto
+git status//realiza un seguimiento del estado de los archivos 
+git pull//descarga los cambios que existen en el repositorio remoto
+git clone "url"//clona el repositorio en nuestra pc 
+git log//muestra una lista de los commits realizados
+git branch//muestra las ramas creadas en el repositorio local
+git checkout "nombre de la rama"//se mueve a la rama solicitada
+git merge//une o mezcla commits de las ramas 
