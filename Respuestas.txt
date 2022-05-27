@@ -1,0 +1,4 @@
+a) Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Se hizo porque se necesitaba buscar una alternativa a la forma de trabajar que existía en aquel entonces. A diferencia de los sistemas de control de versiones centralizados, las ramas de Git son baratas y fáciles de fusionar. Esto facilita el flujo de trabajo de ramas de función tan popular entre muchos usuarios de Git.
+b) Pertenece a Microsoft Corporation y pertenece a él porque lo compró a 7500 millones de dólares.
+c) Sí, se puede trabajar desde la página del mismo GitHub, por ejemplo. Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos,
+y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades.
