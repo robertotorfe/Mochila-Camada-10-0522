@@ -1,0 +1,13 @@
+$ git init
+Crea un nuevo repositorio
+
+$ git commit nombre_archivo -m "mensaje del commit"
+Commitear un archivo/ repositorio
+
+$ git rm archivo 
+$ git -r directorio (remueve el directorio y los archivos que contiene)
+remover un archivo o directorio 
+
+$ git clone git@github:minombre&archivo/git.git
+clonar un repositorio remoto existente 
+
