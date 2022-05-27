@@ -1,0 +1,9 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+Linus Torvarld, Torvalds creó su propia versión de un sistema para controlar los cambios del proyecto Linux. Y fue aquí donde surgió Git.Git es importante en casi todos los proyectos realizados por equipos que trabajan lado a lado, debido a que evita que haya conflictos entre los cambios hechos.
+
+¿A quién pertenece actualmente Github y por qué?
+Luego de haber sido atacado en febrero de 2018 Fue comprado por Microsoft. 
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+VSCode y version de escritorio de GitHub
