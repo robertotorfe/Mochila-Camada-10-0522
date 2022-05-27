@@ -1,0 +1,10 @@
+A-¿Quién inventó el sistema de control de versión Git y por qué?
+B-¿A quién pertenece actualmente Github y por qué?
+C-¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+A-Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. 
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+B-GitHub, Inc. Npm, Inc. GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+C-Se puede trabajar mediante otras interfaces como sublime merge, la terminal desde el visual studio.
