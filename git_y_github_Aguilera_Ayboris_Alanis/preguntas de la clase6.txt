@@ -1,0 +1,9 @@
+1 ¿quien invento el el sisitema de versiones y controles git y porque? 
+ Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+ se creo con la finalidad de que los desarrolladores tuvieran un espacio donde guardar sus trabajos 
+
+ 2 ¿a quien pertenece github y porque? 
+ github pertenece a microsoft la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+
+ 3 ¿hay otras formas que no sean la terminal de git?
+ si, existen otras pero la mas famosas y usada es github 
