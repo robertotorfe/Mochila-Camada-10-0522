@@ -1,1 +1,4 @@
 git init crear un repositorio local
+git checkout moverse de rama
+git berge fuciona un commit con otro
+git chekout -b crear y cambiar de rama
