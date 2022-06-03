@@ -1,0 +1,184 @@
+Armado de  computadoras
+
+
+
+Consigna
+Detalles
+Especificaciones de equipos
+Entrega
+
+Índice
+
+Consigna 
+1
+
+En base a lo aprendido de toda la estructura de computadoras, vamos a proceder a armar diferentes computadoras en base a necesidades de uso determinadas y compatibilidades entre sus diferentes componentes.
+Vamos a armar 9 computadoras de 3 gamas diferentes (gama alta, media y baja) en donde habrá que determinar los componentes compatibles a cada uno.
+
+
+Consigna
+
+Detalles
+2
+
+Detalles de armado
+Para el armado vamos a tener un cuadro de especificaciones donde tendremos separado.
+
+Procesador
+Placa madre
+Memoria primaria
+Memoria secundaria
+GPU (si es que fuera necesario)
+
+Deberemos armar 
+computadoras por gama, donde cada una de estas  serán o compatibles con Intel o AMD.
+El tercer ordenador debe ser armado a libre criterio del estudiante.
+
+
+
+
+Detalles
+¿Por qué esta actividad?¿Sirve este ejercicio de armar computadoras?
+
+A la hora de trabajar en un ambiente laboral, las computadoras son una parte esencial del trabajo día a día, por lo cual la habilidad de poder armar una a base de ciertas especificaciones es una habilidad necesaria para el profesional de IT.
+
+
+
+Recordemos que para
+los diferentes componentes existen ciertas características como los sockets, frecuencia y conectores, los cuales hay que tener en cuenta para la compatibilidad.
+
+Especificaciones
+de equipos
+3
+
+Gama baja
+Los equipos considerados de gama baja generalmente son utilizados por personas que necesitan pocos requisitos. Podríamos poner el ejemplo de una persona que trabaje en una oficina con planillas de ofimática (Excel, Word, etc.) generalmente no necesitan GPU.
+
+Gama baja - Intel
+Procesador:
+Core i3 7100
+Placa madre:
+ASRock E3C236D4U Micro ATX LGA1151 Motherboard
+Memoria principal:G.Skill Aegis 4 GB (1 x 4 GB) DDR4-2133 CL15 Memory
+
+Memoria secundaria:Toshiba MQ01ABD032
+
+Gama baja - AMD
+Procesador
+Ryzen 3 2200g
+Placa madre:
+ASRock A320M-HDV R4.0
+Memoria ram:
+Kingston HyperX Fury 8 GB
+Memoria secundaria:
+Seagate Momentus 7200.4
+
+Gama baja 
+Procesador:
+Intel Pentium G3220 3.0GHz Dual-Core Processor
+Placa madre:
+MSI H81M-E33 Micro ATX LGA1150 Motherboard
+Memoria principal:
+	Kingston 4GB (1 x 4GB) DDR3-1333 Memory
+Memoria secundaria:
+	Crucial MX100 256GB 2.5" Solid State Drive
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+Gama media
+Los equipos considerados de gama media son utilizados por personas con requisitos más exigentes que la gama baja. Podríamos poner el ejemplo que se trabaje en desarrollo con herramientas ligeras (VS code, Mysql, etc.) o también para gaming con exigencias medias, pueden llevar GPU.
+
+Gama media - Intel
+Procesador:
+Intel Celeron E1400
+Placa madre:
+Zotac NF610I-K-E
+Memoria principal:
+Mushkin Silverline 4 GB
+Memoria secundaria:
+Seagate Barracuda Compute
+
+
+GPU
+GeForce GT 1030 2GD4 LP OC
+
+Gama media - AMD
+Procesador:
+AMD Ryzen 5 4500
+Placa madre:
+ A320M Asrock
+Memoria principal:
+Kingston ValueRAM 4 GB
+Memoria secundaria:
+Toshiba MQ01ABD032
+
+GPU
+
+Gama media 
+Procesador:
+Intel Core i5-12600
+Placa madre:
+Gigabyte Z690 AORUS ELITE AX
+Memoria principal:
+Kingston FURY Beast 16 GB
+Memoria secundaria:
+Samsung 870 Evo
+Western Digital Caviar Blue 1tb
+
+GPU:
+MSI GTX 1050 Ti 4GT OC
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+
+Gama alta
+Los equipos considerados de gama alta son aquellos que requieren las mejores prestaciones del mercado. Son utilizados para tareas que requieren mucho procesamiento, como minería de datos, big data, gaming, entre otras. Generalmente utilizan GPU.
+
+Gama alta - Intel
+Procesador
+Core i7-10700
+Placa Madre:
+Asus ROG MAXIMUS XII EXTREME
+Memoria principal:
+Corsair Dominator Platinum 64 GB
+Memoria secundaria:
+Hitachi Ultrastar SSD1600MR
+
+
+
+GPU
+
+Gama alta - AMD
+Procesador
+Amd Ryzen 7 3800xt
+Placa Madre:
+ASRock X470 Taichi
+Memoria principal:
+Corsair Vengeance LPX 16 GB
+Memoria secundaria
+Seagate ST500LM021
+
+500 GB
+GPU:
+Zotac AMP Extreme Holo
+
+GeForce RTX 3080 Ti
+
+Gama alta
+Procesador:
+Intel Core i9-12900K 3.2 GHz 16-Core Processor
+Placa Madre:
+Asus ROG STRIX Z690-E GAMING WIFI ATX LGA1700 Motherboard
+Memoria principal:
+orsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory
+Memoria secundaria:
+Samsung 980 Pro 1 TB M.2-2280 NVME Solid State Drive
+GPU:
+Asus GeForce RTX 3090 24 GB STRIX GAMING OC Video Card
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+
+Entrega
+4
+
+Entrega
+Cada estudiante debe subir a su mochila del viajero un archivo del formato que prefiera (.pdf, .doc, .xls) con el detalle de los diferentes equipos que armó.
+
