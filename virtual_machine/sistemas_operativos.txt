@@ -1,0 +1,11 @@
+Descripción del SO : OpenSuse
+¿Es open source o con licencia ? : Open source
+¿Cuales son los recursos de Hard que tiene la MV? Si no se pueden ver, buscar requisitos mínimos en internet: 
+  AMD64/Intel EM64T ( no se admiten los procesadores de 32bits )
+  512 MB de ram ( se recomienda 1GB )
+  3,5GB free HDD 
+¿Cómo se accede a la ventana de comandos? : buscando la terminal o configurando algun shurtcut para abrirlo directamente.
+¿Puedo instalar aplicaciones?¿Por que? no,
+¿Hay juegos instalados? Si
+Capturar una imagen del file explorer (ejemplo)
+
