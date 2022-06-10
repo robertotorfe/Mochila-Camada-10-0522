@@ -1,0 +1,14 @@
+- ¿Que es un usuario root en   Linux? 
+En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador
+
+- ¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? 
+Cuando instalamos un ubuntu ya sea desktop o server el usuario root no tienen password y a través del sistema de recuperación se puede acceder a todo el sistema. Según como se mire en tu responsabilidad esta ponerle passowrd al root nada mas entrar en el sistema o dejarlo sin password si te gusta mas.
+
+- ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?
+Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+
+Cuando Linux se ejecuta, el kernel de Linux tiene la primera prioridad de ejecución, conocida como PID 1 (Process ID). En versiones anteriores de Linux, este proceso era conocido como init que esta basado en en la forma en la que sistemas antiguos de Unix arrancaban el sistema.
+
+Las versiones modernas de Linux utilizan systemd que intenta coordinar la manera en que los procesos son manejados. Como comentamos PID1 es el proceso padre, todos los demás procesos ejecutados a partir de este son procesos hijos.
+
+Top es otro gestor de procesos integrado en la mayoría de sistemas Linux. Mientras que ps nos muestra un listado de procesos estático, es decir, nos informa de los procesos, nombres, usuarios o recursos que se están usando en el momento de la petición; top nos da un informe en tiempo real de los mismos.
