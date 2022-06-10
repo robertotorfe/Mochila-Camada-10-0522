@@ -1,0 +1,27 @@
+Investigar y contestar las siguientes preguntas. 
+
+¿Que es un usuario root en Linux? 
+En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? 
+Se supone que no debes añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo “sudo” para manejar eso. En su lugar, se añaden usuarios a la cuenta admin cuenta.
+
+¿Cuáles son los procesos típicos de Linux?
+Existen fundamentalmente dos tipos de procesos en Linux:
+Procesos en primer plano (también denominados procesos interactivos): estos se inicializan y controlan a través de una sesión de terminal. En otras palabras, tiene que haber un usuario conectado al sistema para iniciar dichos procesos; no se han iniciado automáticamente como parte de las funciones/servicios del sistema.
+Procesos en segundo plano (también denominados procesos automáticos/no interactivos): son procesos que no están conectados a una terminal; no esperan ninguna entrada del usuario.
+
+
+¿Cómo identificarlos?. 
+Para ver los procesos en sistemas Linux, contamos con el comando ‘ ps ’, que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo.
+
+Investigar y establecer una contraseña para el usuario root.:
+Cuando instalamos un ubuntu ya sea desktop o server el usuario root no tienen password y a través del sistema de recuperación se puede acceder a todo el sistema.
+
+1.-Abre la Terminal (Control + Alt + T)
+2.-Teclea (sin comillas) "sudo su"
+3.-Introduce tu clave actual
+4.-Teclea "passwd root" y escribe tu nueva clave
+5.-Pulsa enter y cierra la terminal
+
+ Subir el documento de manera individual en la mochila
