@@ -1,0 +1,14 @@
+¿Qué es un usuario root en Linux?
+En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador.
+
+¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+El primer usuario creado es por defecto la cuenta de administrador. En su lugar, se añaden usuarios a la cuenta admin (root).
+
+¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?.
+El total de prioridades de Linux es de 140, desde la prioridad 0 hasta la prioridad 139. Las 40 que vemos en las herramientas como renice, nice o top/htop, son en realidad las prioridades que van desde 100 a 139, las prioridades de procesos de usuario.
+
+Investigar y establecer una contraseña para el usuario root.
+
+-	sudo -s  => Para acceder al privilegio de root 
+-	passwd root  => Para cambiar la contraseña de root. Se le pedirá la nueva contraseña de root.
+

@@ -1,2 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
-Originalmente fue creado por Linus Torvalds y Junio Hamano, luego fue mejorado por diversos desarrolladores alrededor del mundo ya que es de codigo abierto. Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia, basicamente para trabajar en equipo remotamente.
