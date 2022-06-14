@@ -1,0 +1,6 @@
+a. quien invento el sistema de control de version Git y por que?
+Git es un proyecto de codigo abierto maduro y con un mantenimiento activo. 
+b. a quien pertenece actualmente GitHub y por que?
+4 de junio de 2018 fue adquirido por Microsoft y lo considera un destino importante para los desarrolladores. 
+c. hay otra forma que no sea la terminar para trabajar githib?
+si, existen mas softwares. 
