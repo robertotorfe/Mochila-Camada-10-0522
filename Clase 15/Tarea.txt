@@ -16,3 +16,6 @@ Un hipervisor, conocido también como monitor de máquinas virtuales, es un proc
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
 
 No, por que es una maquinas virtual independiente al resto. es lka idea básica de las maquinas virtuales.
+
+
+
