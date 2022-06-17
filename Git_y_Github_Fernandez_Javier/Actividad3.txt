@@ -1,0 +1,39 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre sistemas operativos.
+
+
+
+
+¿Qué tipo de máquina virtual es virtualBox?
+
+VirtualBox es de tipo VM
+VirtualBox se distribuye como un software totalmente gratuito para Windows, macOS, Linux y Solaris. Además, soporta una gran cantidad de sistemas operativos, aunque algunos tienen serios problemas de compatibilidad, como Windows 98.
+Gracias a VirtualBox podemos virtualizar prácticamente cualquier edición relativamente moderna de Windows, Linux, DOS y Solaris. Los sistemas más relevantes que podemos virtualizar sin problemas son:
+Windows (desde XP hasta la última versión de Windows 10).
+Ubuntu.
+Debian.
+SUSE / OpenSUSE.
+Fedora.
+Oracle Linux.
+RHEL.
+Arch Linux.
+Solaris.
+Mac OS X Server (Leopard, Snow Leopard).
+FreeBSD.
+DOS.
+FreeDOS.
+OS/2
+Entre sus limitaciones nos encontraremos a que, por motivos de compatibilidad y licencia de uso, no podemos virtualizar las últimas versiones de escritorio de macOS. Aunque existen parches que sí nos permiten instalar este sistema operativo en VirtualBox, igual que en VMware.
+
+
+
+
+
+ Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+
+No, no afectará el funcionamiento del resto, porque las máquinas virtuales trabajan independientemente de proceso o ejecución.
