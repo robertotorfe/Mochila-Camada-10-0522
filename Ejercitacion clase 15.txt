@@ -1,0 +1,20 @@
+Actividad 16/06 Intro.
+
+●	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+El lenguaje en sí no es el problema, se puede usar un editor de texto en cualquier sistema operativo. El problema es al compilar el programa, tú debes decidir la plataforma destino.Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador
+
+¿Qué tipo de máquina virtual soporta virtualBox?.
+En general, hay dos tipos de máquinas virtuales: VM de proceso, que separan un solo proceso, y VMs de sistema, que ofrecen una separación completa del sistema operativo y las aplicaciones de la computadora física.
+VirtualBox es una MV de sistema.
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Genode,​ Windows y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode y muchos otros.
+
+
+¿Qué función cumple el hypervisor en la virtualización?
+Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No afecta a las demás, ya que las MV corren en paralelo sobre el mismo hardware y son independientes entre si.
+
+
+
