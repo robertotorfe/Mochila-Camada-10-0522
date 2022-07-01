@@ -1,0 +1,17 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+	Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (segun corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. Obvio si no hay tal intérprete o compilador no podrás usar ESE, tu lenguaje favorito, en ese sistema.
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+	
+	VirtualBox es compatible con máquinas virtuales de VMware.  Soporta tecnologías de virtualización VT-x y AMD-v. VirtualBox es una aplicación multiplataforma, tanto para equipos hosts como para sistemas invitados. VirtualBox está disponible para su instalación en sistemas operativos físicos Windows, Mac Os y Linux. Podremos virtualizar todo tipo de sistemas operativos tanto de arquitectura de 32 como de 64 bits:
+Además de crear sus propias máquinas, VirtualBox también es capaz de abrir máquinas virtuales de su rival VMware, lo que es muy útil cuando nos descargamos alguna de estas máquinas directamente configuradas y no tenemos VMware instalado en nuestro equipo.
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+	Los hipervisores desempeñan un papel esencial para permitir la virtualización de los servidores, lo que a su vez es determinante para hacer posible la cloud computing. En términos generales, la virtualización se refiere al uso de software para simular o emular recursos físicos. En el caso de la virtualización de servidores, un hipervisor es un proceso de software que crea y ejecuta máquinas virtuales (MV) utilizando los recursos del hardware físico. El hipervisor abstrae y aísla las máquinas virtuales y sus programas del hardware del servidor subyacente, permitiendo un uso más eficiente de los recursos físicos, un mantenimiento y operaciones más sencillos y unos costes reducidos.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+	La máquina virtual no puede acceder al resto de datos de la máquina anfitrión a pesar de estar físicamente funcionando en la misma, están aisladas entre si, por eso si alguna se rompe no afectaria al resto
