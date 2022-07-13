@@ -1,0 +1,21 @@
+En formato TXT,  resolver el siguiente cuestionario:				
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?
+Oracle VM VirtualBox (conocido generalmente como VirtualBox) es un software de virtualización para arquitecturas x86/amd64. 
+Los tipos de máquinas virtuales que soporta virtualBox se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros.
+Desde la versión 6.0, VirtualBox ya no es compatible con sistemas operativos anfitrión de 32 bits, pero si se puede crear máquinas virtuales tanto de 32 bits como de 64 bits.2​ El soporte para las versiones de la rama 5.2.x finalizó en julio de 2020, siendo las últimas versiones compatibles con sistemas operativos anfitrión de 32 bits.3​4​
+
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+
+4. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No, no afectará el funcionamiento del resto, porque las máquinas virtuales trabajan de forma independiente sin compartir recursos entre ellas.
+
+5. Subir este archivo a la mochila del viajero desde la máquina virtual.
+
