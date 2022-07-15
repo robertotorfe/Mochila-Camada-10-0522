@@ -1,0 +1,36 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, 
+de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+VirtualBox es de tipo VM
+VirtualBox se distribuye como un software totalmente gratuito para Windows, macOS, Linux y Solaris. Además, soporta una gran cantidad de sistemas operativos, 
+aunque algunos tienen serios problemas de compatibilidad, como Windows 98.
+Gracias a VirtualBox podemos virtualizar prácticamente cualquier edición relativamente moderna de Windows, Linux, DOS y Solaris. Los sistemas más relevantes que 
+podemos virtualizar sin problemas son:
+
+Windows (desde XP hasta la última versión de Windows 10).
+Ubuntu.
+Debian.
+SUSE / OpenSUSE.
+Fedora.
+Oracle Linux.
+RHEL.
+Arch Linux.
+Solaris.
+Mac OS X Server (Leopard, Snow Leopard).
+FreeBSD.
+DOS.
+FreeDOS.
+OS/2
+Entre sus limitaciones nos encontraremos que, por motivos de compatibilidad y licencia de uso, no podemos virtualizar las últimas versiones de escritorio de macOS. 
+Aunque existen parches que sí nos permiten instalar este sistema operativo en VirtualBox, igual que en VMware.
+
+3.  Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+No, no afectará el funcionamiento del resto, porque las máquinas virtuales trabajan de forma independiente sin compartir recursos entre ellas.
+
