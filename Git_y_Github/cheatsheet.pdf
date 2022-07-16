@@ -1,0 +1,85 @@
+pwd       <------     me dice donde estoy ubicado
+clear       <------     limpia la consola
+^L       <------     limpia la consola
+cd       <------     ir a una carpeta
+cd ..       <------     ir una carpeta atras
+ls       <------     muestra el contenido de una carpeta
+ls -a       <------     ver archivos ocultos
+ls -R       <------     muestra el contenido de una carpeta con el contenido de las carpetas que estan dentro
+touch       <------     crear archivo
+mkdir nombre      <------     crea una carpeta 
+mkdir "carpeta con espacios"       <------     crea una carpeta con espacios
+mv mati.txt carpeta       <------     mueve un archivo a una carpeta
+mv mati.txt facha.txt       <------     renombra el archivo mati.txt a facha.txt
+mv *.txt clase3/       <------     mover todas las extenciones a una carpeta
+mv * ..       <------     mueve todo el contenido de una carpeta a un nivel anterior
+mv palabra* clase3/       <------     mover todas los archivos que empiecen con una palabra a una carpeta
+mv mati.txt ../       <------     mover para atras el archivo
+mv mati.txt ../
+rm       <------     borrar archivo
+rm -r       <------     borrar carpeta con contenido
+cp       <------     copiar
+nano       <------     abrir archivo .txt para editar
+
+git_____
+git init       <------     inicializar repositorio
+git status       <------     ver el estado
+git add .       <------     para agregar todos los archivos
+git add index.html       <------    agregar ese archivo al repositorio 
+git commit -m       <------     crear commit
+git config user.name       <------     crear usuario para comit
+git config user.email       <------     crear mail para commit
+git log       <------    ver el commit creado
+git log --oneline       <------     muestra de forma reducida los log
+git restore .       <------    recuperacion de archivo en el area de working directory
+git restore --staged .       <------    recuperacion de archivos en el staged
+git branch       <------    ver ramas y nombre
+git branch nombrerama       <------    Crear rama
+git branch -M nombrerama       <------    renombrar rama donde estoy posicionado
+git branch -m nombreramaanterior nuevonombre       <------    renombrar rama en donde no estoy posicionado
+git branch -d       <------    eliminar rama
+git branch -D       <------    eliminar rama
+git checkout nombrerama      <------    Moverse a rama
+git checkout -b nombrerama      <------    Crear rama y mover a esa rama
+git checkout  b57cea4     <------    volver a un commit
+git checkout main    <------    volver al ultimo commit
+git switch --help    <------    ayuda comandos
+git merge    <------    unir commits
+git remote add origin https://github.com/mativgarcia/PruebaCamada.git    <------    subir al repositorio
+git remote -v    <------    ver la url en donde estoy conectado
+git push -u origin main    <------    subir los archivos al repositorio poniendo origin como repositorio y main como rama
+git push origin --delete nombrerama    <------    eliminar una rama del repositorio
+git push    <------    una vez que esta predeterminada la rama solo con este comando lo sube al repositorio
+origin = lo que esta en github
+git push --set-upstream origin main    <------    poner predeterminado el origin y rama
+git pull    <------    descargar el ultimo commit
+git clone url    <------    clonar repositorio de github
+
+
+//Desde local hacia el remoto
+git init -- iniciar repositorio
+git config user.nombre -- en caso de que no este global
+git config user.email -- en caso de que no este global
+git add . -- preparar los archivos
+git commit -m "nombrecommit" -- realizar un commit de los archivos preparados
+git log -- ver los commits
+git branch -- ver las ramas y los nombres
+git push -u oirigin main
+
+// si queremos crear una rama
+git checkout -b + nombreRama2
+git push -u origin nombreRama2
+
+
+//Desde github hacia el local
+
+Crear un repo nuevo incluyendo un archivo
+
+git clone + url -- bajar el contenido del repositorio a una carpeta local
+cd carpetaClonada -- ingresar a la carpeta localmente que se bajo del repositorio
+-- NO hacer git init
+git config user.nombre -- en caso de que no este global
+git config user.email -- en caso de que no este global
+git checkout -b + nombreRama2 -- Crear y mover a la rama donde voy a trabajar
+
+**Antes de hacer un git push tendria que hacer un git pull si estoy trabajando con alguien mas en mi rama
